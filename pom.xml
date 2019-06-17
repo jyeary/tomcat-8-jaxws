@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.bluelotussoftware</groupId>
     <artifactId>tomcat-8-jaxws</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <tomcat.version>8.5.35</tomcat.version>
+        <tomcat.version>8.5.42</tomcat.version>
     </properties>
     <dependencies>
         <dependency>
